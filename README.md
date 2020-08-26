@@ -2,9 +2,9 @@
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/typical_nana?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Ftypical_nana&screen_name=typical_nana)
 
-## I'm a Developer, and Aspiring 30+ Athlete!
+## I'm a Developer and Aspiring 30+ Athlete!
 
-- 🔭 I’m currently working as an Full Stack Engineer [Angular + Node/ Express]
+- 🔭 I’m currently working as a Full Stack Engineer [Angular + Node/ Express]
 - 🌱 I’m currently learning everything 🤣 (trying to!)
 - 🥅 2020 Goals: 
     - Contribute more to Open Source projects
