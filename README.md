@@ -40,13 +40,14 @@
 <br />
 
 
---- 
-
-[![Nana's Github stats](https://github-readme-stats.vercel.app/api?username=abeeku23&count_private=true)](https://github.com/abeeku23/github-readme-stats)
 
 --- 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abeeku23&layout=compact)](https://github.com/abeeku23/github-readme-stats)
+[![Nana's Github stats](https://github-readme-stats.vercel.app/api?username=abeeku23&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+
+--- 
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abeeku23&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 [twitter]: https://twitter.com/typical_nana
 [instagram]: https://instagram.com/abeeeku
