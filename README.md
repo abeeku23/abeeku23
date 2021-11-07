@@ -6,11 +6,12 @@
 
 - 🔭 I’m currently working as a Full Stack Engineer [Angular + Node/ Express]
 - 🌱 I’m currently learning everything 🤣 (trying to!)
-- 🥅 2020 Goals: 
+- 🥅 2021-2022 Goals: 
     - Contribute more to open Source projects
     - Practice more algorithmic problems
     - Learn React
     - Grad school?
+    - Becoming a stronger technical writer
 - ⚡ Fun fact: I box! 
 
 
